@@ -1,1 +1,1 @@
-Arabic Sentiment Analysis using TextBlob and TextBlob-at extension
+Arabic Sentiment Analysis using TextBlob and TextBlob-ar extension
