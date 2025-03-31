@@ -3,7 +3,6 @@
 This repository demonstrates how to perform basic text analysis tasks—such as tokenization and sentiment analysis—on Arabic text using the `TextBlob` library and its Arabic extension, `textblob_ar`. The code is simple, modular, and beginner-friendly, making it a great starting point for working with Arabic NLP.
 
 ---
-# NB: You can train your Neural Network or create your own extension the possibilities are open
 
 ## **Features**
 1. **Tokenization**:
@@ -14,6 +13,15 @@ This repository demonstrates how to perform basic text analysis tasks—such as 
    - Requires minimal setup and leverages the familiar `TextBlob` API.
 
 ---
+
+# NB: You can train your Neural Network or create your own extension the possibilities are open
+
+Why Train Your Own Model?
+While textblob_ar is a great starting point, training your own neural network or creating custom extensions allows you to:
+
+Achieve higher accuracy for your specific domain or dataset.
+Incorporate unique linguistic nuances of Arabic dialects or industry-specific terminology.
+Scale your solution to handle complex tasks like multi-label classification or aspect-based sentiment analysis.
 
 ## **Dependencies**
 To run this code, ensure you have the following Python libraries installed:
